@@ -1,0 +1,1 @@
+Esse projeto contempla conceitos básicos de HTML e CSS, para que se possa ter uma ideia da capacidade de criação.
